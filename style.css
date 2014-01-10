@@ -1,0 +1,28 @@
+#container {
+	padding: 0% 7% 5% 7%;
+}
+
+p {
+	padding-bottom: 1.5%;
+}
+
+#bold {
+	font-weight: bold;
+}
+
+h1 span {
+	font-weight: bold;
+}
+#head-bold {
+	font-weight: bold;
+
+}
+
+#link {
+	color: black;
+}
+
+a:link {
+   color: #0055ff;
+   text-decoration: none;
+}
